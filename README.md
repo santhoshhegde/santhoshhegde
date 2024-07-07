@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React, Flutter**
-
 - 📫 How to reach me **santhosh.hegde262000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
