@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh Hegde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **node.js**
 
 - 📫 How to reach me **santhosh.hegde262000@gmail.com**
 
